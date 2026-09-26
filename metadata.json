@@ -1,0 +1,6 @@
+{
+  "name": "ChronoPay - Precision Stopwatch Skill Challenge",
+  "description": "The high-stakes precision stopwatch arcade game where you wager ₹10 to hit the system's exact target time and win ₹100.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
